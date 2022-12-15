@@ -2,4 +2,3 @@
 
 class GCP:
     context = "gcp"
-    
