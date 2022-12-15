@@ -1,0 +1,2 @@
+class Parser:
+    context = "images"

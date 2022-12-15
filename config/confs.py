@@ -1,2 +1,3 @@
 class Confs:
-    storage = "gcp"
+    google_storage = "gcp"
+    aws_storage = "aws"
