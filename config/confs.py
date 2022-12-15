@@ -1,0 +1,2 @@
+class Confs:
+    storage = "gcp"
