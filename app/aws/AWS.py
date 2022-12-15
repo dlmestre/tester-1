@@ -16,4 +16,10 @@ class AWS:
     def loader(self):
         print("Loading")
 
+    def writer(self):
+        print("Save")
+
+    def stack(self):
+        print("Check stack")
+
 
